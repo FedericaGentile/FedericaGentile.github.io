@@ -665,11 +665,10 @@ footer {
     /* Skills Section */
     .skills-section {
         padding: 20px 15px; 
-        padding-bottom: 500px;
+        padding-bottom: 700px;
     }
 
     .skills-container {
-        padding-top: 250px;
         flex-direction: column; 
     }
 
